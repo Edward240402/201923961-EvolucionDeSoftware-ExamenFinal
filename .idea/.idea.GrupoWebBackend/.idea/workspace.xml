@@ -38,7 +38,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="20CM0S19zkkzb8ojtXBL7RLMt5b" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -191,6 +191,7 @@
       <workItem from="1656515473763" duration="303000" />
       <workItem from="1656515825102" duration="2536000" />
       <workItem from="1657223292384" duration="2210000" />
+      <workItem from="1657238730001" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="fix:DomainAdoptionRequests: Added files to commit another domain.Added changes to checkout new branch">
       <created>1651596965050</created>
